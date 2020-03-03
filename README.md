@@ -23,3 +23,30 @@ si scartano tutte le carte che indicano 4G (ovvero che necessitano 4 giocatori)
 
 ## variazioni
 siete liberi di creare nuove carte bonus e malus! o di toglierne alcune che ritenete improprie (tipo se un giocatore ha già una mano sola, potete scartare quella carta :)
+
+## carte
+### Occhio Sx chiuso
+### Occhio Dx chiuso
+### Americana
+### Americana al contrario
+### Zitti!
+### !Zitti (cantare!)
+### Mani invertite
+### Scambio attacco/difesa
+### Una Mano Sola
+### Saltellare!
+### Cambio Campo
+### COMBO
+### KILL
+un giocatore non gioca
+### DIFESA POWER
+il goal fatto dalla difesa vale doppio
+### OSTAGGIO
+un giocatore avversario gioca con te
+### PENDOLO
+attacco e difesa si scambiano ogni 5 secondi
+### NO DESTRA
+la mano destra sta ferma
+
+
+
